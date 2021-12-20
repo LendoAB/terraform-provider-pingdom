@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
-	"github.com/nordcloud/go-pingdom/solarwinds"
+	"github.com/lendoab/go-pingdom/solarwinds"
 	"strconv"
 	"testing"
 	"text/template"

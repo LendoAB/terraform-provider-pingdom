@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/nordcloud/go-pingdom/pingdom"
+	"github.com/lendoab/go-pingdom/pingdom"
 )
 
 func dataSourcePingdomContact() *schema.Resource {

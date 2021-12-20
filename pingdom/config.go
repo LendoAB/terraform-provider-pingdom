@@ -2,12 +2,12 @@ package pingdom
 
 import (
 	"errors"
-	"github.com/nordcloud/go-pingdom/solarwinds"
+	"github.com/lendoab/go-pingdom/solarwinds"
 	"log"
 	"os"
 
-	"github.com/nordcloud/go-pingdom/pingdom"
-	"github.com/nordcloud/go-pingdom/pingdomext"
+	"github.com/lendoab/go-pingdom/pingdom"
+	"github.com/lendoab/go-pingdom/pingdomext"
 )
 
 // Config respresents the client configuration

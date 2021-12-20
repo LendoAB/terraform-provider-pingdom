@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
-	"github.com/nordcloud/go-pingdom/pingdomext"
+	"github.com/lendoab/go-pingdom/pingdomext"
 )
 
 func TestAccPingdomIntegration_basic(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/nordcloud/go-pingdom/pingdom"
-	"github.com/nordcloud/go-pingdom/solarwinds"
+	"github.com/lendoab/go-pingdom/pingdom"
+	"github.com/lendoab/go-pingdom/solarwinds"
 	"log"
 	"time"
 )
